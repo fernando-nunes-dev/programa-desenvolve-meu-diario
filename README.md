@@ -28,7 +28,7 @@ A proposta foi construir uma página web de *journaling* (diário pessoal), com 
 
 ## 📸 Prévia
 
-![preview](https://via.placeholder.com/800x400?text=Prévia+do+Projeto)
+![preview](https://github.com/fernando-nunes-dev/programa-desenvolve-meu-diario/blob/main/programa-desenvolve_meu-diario.jpg)
 
 ---
 
